@@ -1,3 +1,12 @@
+## [4.1.2](https://github.com/ricardobuquet/vuex/compare/v4.1.0...v4.1.2) (2023-05-01)
+
+
+### Bug Fixes
+
+* keep computed getter be reactive after registering new modules ([f032c86](https://github.com/ricardobuquet/vuex/commit/f032c867624eacf50ed6f566594bcba42bec2378))
+
+
+
 ## [4.1.1](https://github.com/ricardobuquet/vuex/compare/v4.1.0...v4.1.1) (2023-05-01)
 
 
