@@ -1,6 +1,6 @@
 {
   "name": "@ricardo_productiv/vuex",
-  "version": "4.1.0",
+  "version": "4.1.1",
   "access": "public",
   "private": false,
   "description": "state management for Vue.js",
@@ -43,7 +43,7 @@
     "docs": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:serve": "yarn docs:build && vitepress serve docs"
-  },  
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:ricardobuquet/vuex.git"
