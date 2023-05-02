@@ -1,3 +1,7 @@
+## [4.1.3](https://github.com/ricardobuquet/vuex/compare/v4.1.2...v4.1.3) (2023-05-02)
+
+
+
 ## [4.1.2](https://github.com/ricardobuquet/vuex/compare/v4.1.0...v4.1.2) (2023-05-01)
 
 

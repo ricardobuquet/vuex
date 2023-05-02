@@ -1,6 +1,6 @@
 {
   "name": "@ricardo_productiv/vuex",
-  "version": "4.1.2",
+  "version": "4.1.3",
   "access": "public",
   "private": false,
   "description": "state management for Vue.js",
